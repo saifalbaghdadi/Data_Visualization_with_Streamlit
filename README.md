@@ -1,4 +1,4 @@
-## Welcome to my Apps ♥
+## Welcome to my Apps
 * <strong> I created this application to practice on the Streamlit library in Python.
 
 
