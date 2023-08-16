@@ -29,19 +29,21 @@ streamlit run Home.py
 ```
 
 ## User interface
-Apps publishedon on [Streamlit](https://appsdeployment.streamlit.app/).
-
+Apps publishedon on [Streamlit](https://appsdeployment.streamlit.app/) 
+```
+(https://appsdeployment.streamlit.app/)
+```
 <img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/HomePage.png" width="1200px" data-canonical- style="max-width: 450%">
 
 <br>
-<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/Visualization1.png" width="1200px" data-canonical- style="max-width: 450%">
+<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/Visualization1.png" width="800px" data-canonical- style="max-width: 450%">
 
 <br>
 
-<img alige= "center" alt= "PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/CalcCircle.png" width="1200px" data-canonical- style="max-width: 450%">>
+<img alige= "center" alt= "PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/CalcCircle.png" width="1200px" data-canonical- style="max-width: 450%">
 
 <br>
-<img alige= "center" alt= "PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/CalcRectangle.png" width="1200px" data-canonical- style="max-width: 450%">>
+<img alige= "center" alt= "PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/CalcRectangle.png" width="1200px" data-canonical- style="max-width: 450%">
 
 <br>
 
