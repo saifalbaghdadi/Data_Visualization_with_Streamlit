@@ -29,7 +29,7 @@ streamlit run Home.py
 ```
 
 ## User interface
-Apps publishedon on → [Streamlit](https://appsdeployment.streamlit.app/)
+Apps deploy on → [Streamlit](https://appsdeployment.streamlit.app/)
 
 ```
 https://appsdeployment.streamlit.app/
