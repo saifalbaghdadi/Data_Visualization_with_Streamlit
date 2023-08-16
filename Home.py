@@ -33,4 +33,4 @@ hide_menu()
 
 
 
-# streamlit run Home.py
+# In Terminal Run: streamlit run Home.py
