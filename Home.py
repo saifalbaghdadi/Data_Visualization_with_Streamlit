@@ -4,7 +4,7 @@ st.set_page_config(
   page_title="Welcome", page_icon="🎃") # To show this icon press on key ((Windows) + (.))
 
 st.write("# 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕸𝖞 𝕬𝖕𝖕𝖘 ")
-st.warning("###(っ◔◡◔)っ ♥ I created this application to practice on the Streamlit library in Python ♥")
+st.warning("(っ◔◡◔)っ ♥ I created this application to practice on the Streamlit library in Python ♥")
 
 st.sidebar.success("Select Demo above.")
 
