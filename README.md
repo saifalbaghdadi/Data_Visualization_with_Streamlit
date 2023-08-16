@@ -30,8 +30,9 @@ streamlit run Home.py
 
 ## User interface
 Apps publishedon on → [Streamlit](https://appsdeployment.streamlit.app/)
+
 ```
-(https://appsdeployment.streamlit.app/)
+https://appsdeployment.streamlit.app/
 ```
 <img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/Streamlit_App_Tutorial/main/img/HomePage.png" width="1200px" data-canonical- style="max-width: 450%">
 
